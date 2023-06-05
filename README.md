@@ -60,7 +60,7 @@ More info about dataset can be found here:
 
 7. Deploying Mage Data Pipeline:
    - Deploy Mage, an open-source data pipeline tool, on a Compute Engine instance to automate the data transformation process.
-
+<img src="/imgs/mage.png">
 8. Building the Pipeline in Mage:
    - Construct a comprehensive data pipeline in Mage to orchestrate the required data transformations and integrations.
 
